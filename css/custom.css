@@ -1,0 +1,67 @@
+body {
+  font-size: 16px;
+}
+
+.nav {
+  color: white;
+  text-align: center;
+  vertical-align: middle;
+}
+
+.navbar-nav {
+  color: white;
+  text-align: center;
+  vertical-align: middle;
+}
+
+.page-header {
+  padding-top: 30px;
+}
+
+.well {
+  background: transparent;
+  border: none;
+}
+
+.btn-send {
+  background: transparent;
+  border: solid;
+  border-color: white;
+  border-radius: 0;
+}
+
+.btn-send a:hover {
+  background: red;
+  color: red;
+}
+
+a:link {
+  color: #ff4229;
+}
+
+a:visited {
+  color: #ff4229;
+}
+
+a:hover {
+  text-decoration: line-through;
+}
+
+.orange {
+  color: #ff4229;
+}
+
+.footer li {
+  display: inline-block;
+  padding: 10px;
+  font-size: 1.4rem;
+  color: white;
+}
+
+.footer ul {
+  list-style-type: none;
+  margin: 10px;
+  padding: 0;
+  text-align: center;
+  color: white;
+}
